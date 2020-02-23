@@ -7,6 +7,16 @@
 # BlueJ files
 *.ctxt
 
+# Eclipse Files
+.project
+.classpath
+.settings
+build/
+bin/
+target/
+MANINFEST.MF
+
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
